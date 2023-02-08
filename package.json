@@ -1,0 +1,23 @@
+{
+  "name": "todoList",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miss-gif/todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miss-gif/todo/issues"
+  },
+  "homepage": "https://github.com/miss-gif/todo#readme",
+  "dependencies": {
+    "Express": "^3.0.1",
+    "sqlite3": "^5.1.4"
+  }
+}
